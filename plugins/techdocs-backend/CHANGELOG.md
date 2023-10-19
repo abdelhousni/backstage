@@ -1,5 +1,14 @@
 # @backstage/plugin-techdocs-backend
 
+## 1.8.1-next.0
+
+### Patch Changes
+
+- c3c5c7e514: Add info about the entity when tech docs fail to build
+- Updated dependencies
+  - @backstage/plugin-search-backend-module-techdocs@0.1.11-next.0
+  - @backstage/config@1.1.1
+
 ## 1.8.0
 
 ### Minor Changes

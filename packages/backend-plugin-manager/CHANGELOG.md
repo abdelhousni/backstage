@@ -1,5 +1,15 @@
 # @backstage/backend-plugin-manager
 
+## 0.0.3-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-search-backend-node@1.2.11-next.0
+  - @backstage/plugin-scaffolder-node@0.2.7-next.0
+  - @backstage/config@1.1.1
+  - @backstage/plugin-catalog-backend@1.14.1-next.0
+
 ## 0.0.2
 
 ### Patch Changes

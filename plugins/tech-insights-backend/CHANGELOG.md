@@ -1,5 +1,13 @@
 # @backstage/plugin-tech-insights-backend
 
+## 0.5.21-next.0
+
+### Patch Changes
+
+- 193ad022bb: Add `factRetrieverId` to the fact retriever's logger metadata.
+- Updated dependencies
+  - @backstage/config@1.1.1
+
 ## 0.5.20
 
 ### Patch Changes

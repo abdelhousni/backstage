@@ -1,5 +1,31 @@
 # example-backend
 
+## 0.2.89-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-search-backend-node@1.2.11-next.0
+  - @backstage/plugin-techdocs-backend@1.8.1-next.0
+  - @backstage/plugin-tech-insights-backend@0.5.21-next.0
+  - @backstage/plugin-scaffolder-backend@1.18.1-next.0
+  - example-app@0.2.89-next.0
+  - @backstage/plugin-catalog-backend-module-scaffolder-entity-model@0.1.4-next.0
+  - @backstage/plugin-search-backend@1.4.7-next.0
+  - @backstage/plugin-search-backend-module-catalog@0.1.11-next.0
+  - @backstage/plugin-search-backend-module-elasticsearch@1.3.10-next.0
+  - @backstage/plugin-search-backend-module-explore@0.1.11-next.0
+  - @backstage/plugin-search-backend-module-pg@0.5.16-next.0
+  - @backstage/plugin-search-backend-module-techdocs@0.1.11-next.0
+  - @backstage/plugin-graphql-backend@0.2.1-next.0
+  - @backstage/config@1.1.1
+  - @backstage/plugin-auth-backend@0.19.4-next.0
+  - @backstage/plugin-scaffolder-backend-module-confluence-to-markdown@0.2.8-next.0
+  - @backstage/plugin-scaffolder-backend-module-rails@0.4.24-next.0
+  - @backstage/plugin-catalog-backend@1.14.1-next.0
+  - @backstage/plugin-explore-backend@0.0.17-next.0
+  - @backstage/plugin-kubernetes-backend@0.13.1-next.0
+
 ## 0.2.88
 
 ### Patch Changes

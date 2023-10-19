@@ -1,5 +1,17 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.18.1-next.0
+
+### Patch Changes
+
+- 99d4936f6c: Add examples for `github:webhook` scaffolder action & improve related tests
+- Updated dependencies
+  - @backstage/plugin-scaffolder-common@1.4.3-next.0
+  - @backstage/plugin-catalog-backend-module-scaffolder-entity-model@0.1.4-next.0
+  - @backstage/plugin-scaffolder-node@0.2.7-next.0
+  - @backstage/config@1.1.1
+  - @backstage/plugin-catalog-backend@1.14.1-next.0
+
 ## 1.18.0
 
 ### Minor Changes

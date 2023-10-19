@@ -1,5 +1,21 @@
 # example-backend-next
 
+## 0.0.17-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-search-backend-node@1.2.11-next.0
+  - @backstage/plugin-techdocs-backend@1.8.1-next.0
+  - @backstage/plugin-scaffolder-backend@1.18.1-next.0
+  - @backstage/plugin-catalog-backend-module-scaffolder-entity-model@0.1.4-next.0
+  - @backstage/plugin-search-backend@1.4.7-next.0
+  - @backstage/plugin-search-backend-module-catalog@0.1.11-next.0
+  - @backstage/plugin-search-backend-module-explore@0.1.11-next.0
+  - @backstage/plugin-search-backend-module-techdocs@0.1.11-next.0
+  - @backstage/plugin-catalog-backend@1.14.1-next.0
+  - @backstage/plugin-kubernetes-backend@0.13.1-next.0
+
 ## 0.0.16
 
 ### Patch Changes
